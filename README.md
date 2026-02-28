@@ -152,8 +152,14 @@ python app.py
 4. Push to the branch
 5. Create a Pull Request
 
+## contributers
+1.Faisar A
+2.Hariharan A
+3.Ram kumar R
+
 ## License
 This project is licensed under the MIT License.
 
 ## Support
+
 For support and questions, please contact the development team.
